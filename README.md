@@ -1,1 +1,3 @@
-landscape_classifier
+Landscape classifier
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pgrigoruta/landscape_classifier/HEAD?filepath=runner.ipynb)
